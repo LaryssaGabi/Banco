@@ -2,7 +2,7 @@
 
 O Sistema Bancário Simples é um programa Java que simula as operações básicas de uma conta bancária. Ele oferece funcionalidades como crédito, débito, consulta de saldo e encerramento de conta para uma conta bancária.
 
-## Conteúdo
+## Conteúdo.
 
 1. [Instruções de Uso](#instruções-de-uso)
 2. [Visão Geral do Código](#visão-geral-do-código)
